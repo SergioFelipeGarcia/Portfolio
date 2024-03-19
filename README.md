@@ -1,33 +1,31 @@
-# Frontend Developer Portfolio - Diego Téllez
+# Desarrollador de aplicaciones web  - Sergio Felipe Garcia
 
-This is my 2023 portfolio. Here you can download my resume and check out all the relevant information about the projects I've done and the technologies I work with.
+Este es mi portafolio del 2024. Ire actualizandolo y añadiendo más proyectos
 
-## Design
+## Diseño
 
-![Scremshot](https://imgur.com/oYVnpcK.png)
-
-![Screamshot](https://imgur.com/Th9089F.png)
-
+[![inicio.jpg](https://i.postimg.cc/9FcNgxCC/inicio.jpg)](https://postimg.cc/w3bV7Q1G)
+[![tecnologias.jpg](https://i.postimg.cc/rmcSyPhp/tecnologias.jpg)](https://postimg.cc/CZPZmmpy)
 
 
-**Do you want me to design a portfolio like this for you? Do not hesitate to contact me.**
-[Go to my portfolio](https://github.com/oscar91511/portfolio "portfolio"). 
 
-## Sections
 
-- #### Home
-- #### About
-- #### Projects
-- #### Technologies
-- #### Contact
+
+## Seciones
+
+- #### Inicio
+- #### Sobre mi 
+- #### Proyectos
+- #### Tecnologias
+- #### Contacto
   
 
-## Technologies
+## Tecnologias
 
 - #### React JS
 - #### Tailwind CSS
 
-## Libraries
+## Librerias
 
 - #### react-router-dom
 - #### sweetalert2
@@ -38,13 +36,3 @@ This is my 2023 portfolio. Here you can download my resume and check out all the
 
 
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
