@@ -4,7 +4,7 @@ Este es mi portafolio del 2024. Ire actualizandolo y añadiendo más proyectos
 
 ## Diseño
 
-[![inicio.jpg](https://i.postimg.cc/9FcNgxCC/inicio.jpg)](https://postimg.cc/w3bV7Q1G)
+[![portfolio.png](https://i.postimg.cc/ht4492mk/portfolio.png)](https://postimg.cc/nC5txY02)
 [![tecnologias.jpg](https://i.postimg.cc/rmcSyPhp/tecnologias.jpg)](https://postimg.cc/CZPZmmpy)
 
 
